@@ -42,7 +42,7 @@ Before we begin, make sure you have:
 
 ### Step 1: Clone This Repository
 ```bash
-git clone https://github.com/your-username/rust-capstone.git
+git clone https://github.com/your-username/rust-hello-world.git
 cd rust-hello-world
 ```
 
