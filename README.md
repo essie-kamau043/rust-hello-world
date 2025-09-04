@@ -1,4 +1,5 @@
 ### 🦀 Rust Beginner’s Toolkit – Moringa AI Capstone
+
 ## 📌 Project Overview
 
 This project is part of the Moringa AI Capstone. The goal is to learn a new technology (Rust) using AI prompts and create a beginner-friendly toolkit that helps others get started.
@@ -25,19 +26,19 @@ This project is part of the Moringa AI Capstone. The goal is to learn a new tech
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/rust-capstone.git
+- git clone https://github.com/your-username/rust-capstone.git
 
-cd rust-capstone/hello_world
+- cd rust-hello-world
 
 2. Install Rust
 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+- curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-source $HOME/.cargo/env
+- source $HOME/.cargo/env
 
 3. Run the Program
 
-cargo run
+- cargo run
 
 
 ### ✅ Expected Output:
@@ -85,4 +86,5 @@ Hello, world!
 ### 👩‍💻 Author
 
 Capstone by Esther Wambui Kamau
+
 Moringa School – AI Capstone Project
