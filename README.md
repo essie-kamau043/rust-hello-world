@@ -30,65 +30,11 @@ Rust is a modern systems programming language designed to be:
 ```bash
 git clone https://github.com/your-username/rust-beginners-toolkit.git
 cd rust-beginners-toolkit/hello_world
-2. Install Rust
+
+
+### 2. Install Rust
+
 Use the official installer:
 
-bash
-Copy code
+```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-Then reload your environment:
-
-bash
-Copy code
-source $HOME/.cargo/env
-Verify installation:
-
-bash
-Copy code
-rustc --version
-cargo --version
-3. Run the Hello World Program
-bash
-Copy code
-cargo run
-✅ Expected output:
-
-Copy code
-Hello, Rust!
-🛠️ Requirements
-OS: Linux / MacOS / Windows
-
-Editor: VS Code + Rust Analyzer
-
-Rust Toolchain: rustc, cargo (installed via rustup)
-
-🔍 Common Issues & Fixes
-Issue	Fix
-cargo: command not found	Run source $HOME/.cargo/env or restart terminal
-Missing semicolon error	Remember every statement ends with ; in Rust
-No syntax highlighting	Install Rust Analyzer in VS Code
-
-📓 Learning with AI Prompts
-Some example prompts I used with AI:
-
-“Explain the basics of Rust programming for a beginner.”
-
-“Give me step-by-step instructions to install Rust on Linux.”
-
-“List common errors when starting with Rust and how to fix them.”
-
-✨ Reflection: AI helped me get unstuck quickly, especially with setup issues and debugging.
-
-📚 Recommended Resources
-The Rust Book (official free guide)
-
-Rustlings (small exercises to practice Rust)
-
-Cargo Book (Rust’s package manager)
-
-Rust Playground (try Rust in your browser)
-
-👩‍💻 Author
-Built with ❤️ by [Your Name]
-For the Moringa AI Capstone Project
-
