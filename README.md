@@ -314,7 +314,7 @@ Mark off each item as you complete it:
 **Author:** Esther Wambui Kamau  
 **Institution:** Moringa School  
 **Program:** AI Capstone Project  
-**Date:** [Current Date]  
+**Date:** 04/09/2025 
 
 ### Project Goals Achieved:
 ✅ Learned a new technology (Rust) using AI assistance  
